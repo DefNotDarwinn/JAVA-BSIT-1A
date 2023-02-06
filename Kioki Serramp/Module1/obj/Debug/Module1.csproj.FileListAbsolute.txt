@@ -1,0 +1,8 @@
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\bin\Debug\Module1.exe.config
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\bin\Debug\Module1.exe
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\bin\Debug\Module1.pdb
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\obj\Debug\Module1.csproj.AssemblyReference.cache
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\obj\Debug\Module1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\obj\Debug\Module1.exe
+C:\Users\CLI PC\Desktop\Kioki Serramp\Module1\obj\Debug\Module1.pdb
